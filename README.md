@@ -10,4 +10,5 @@ If you are loading the ipynb file locally, then remove the comment tag from the 
 
 3) Make sure you have the modules installed locally. You can install any Python Module from the web: https://pypi.org/
 
-4) For demo of my jupyter notebook visit the Kaggle Cloud hosting link: https://www.kaggle.com/kernels/scriptcontent/27631195/download
+4) For demo of my jupyter notebook visit the Kaggle Cloud hosting link: 
+https://www.kaggle.com/mmhasnat17/stock-market-analysis-kernel
